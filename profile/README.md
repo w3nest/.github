@@ -13,22 +13,30 @@ explore, create, and share applications in a decentralized, collaborative cloud 
 
 ## Repositories
 
-The most foundationnal libraries:
+Core Libraries and Tools:
+
 -  [py-w3nest](https://github.com/w3nest/py-w3nest): 
    This is the python local server, including the services that are also deployed online. 
+
 -  [co-lab](https://github.com/w3nest/co-lab):
    The companion application for the W3Nest local server, acting as a multi-functional dashboard, portal, and console.
+
 -  [k8s-deployments](https://github.com/w3nest/k8s-deployments):
    Essential Kubernetes configuration files for deploying W3Nest infrastructure within a cluster environment.
+
 -  [webpm-client](https://github.com/w3nest/webpm-client):
-   A TypeScript library and HTTP client for dynamically installing components in the browser. .
+   A TypeScript library and HTTP client for dynamically installing components in the browser.
+
 -  [w3nest-client](https://github.com/w3nest/w3nest-client):
    A set of specialized HTTP clients designed to communicate efficiently with W3Nest backends.
+
 -  [webpm-externals](https://github.com/w3nest/webpm-externals):
    A collection of NPM packages adapted for use within W3Nest.
+
 -  [mkdocs-ts](https://github.com/w3-nest/mkdocs-ts):
    Our go-to library for building interactive applications from hierarchical structures, supporting features like 
    Code API documentation and notebook-like pages.
+
 -  [rx-vdom](https://github.com/w3-nest/rx-vdom):
    A lightweight library for rendering HTML documents using reactive programming principles.
 
