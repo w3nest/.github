@@ -95,7 +95,7 @@ If you have any questions or need assistance, feel free to contact us through em
 
 ## Contact Us
 
-- Email: [Contact Email Address](mailto:reinisch.gui@gmail.com)
+- Email: [Contact Email Address](mailto:contact@w3nest.org)
 - Website: [Organization's Website](https://w3nest.org)
 
 ## License
