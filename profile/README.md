@@ -2,14 +2,11 @@
 
 ## About Us
 
-Our objective is to create a user-friendly, distributed cloud solution that operates locally on personal computers,
-allowing users to access and install applications via a web browser. As users navigate through apps, necessary 
-components are seamlessly downloaded to their devices, enabling a “tiny cloud” experience on each PC.
-This ecosystem encourages collaboration and open-source contributions, allowing developers to add new components
-easily and enhancing the development cycle by running everything locally.
-The ultimate goal is to build a community-driven platform that empowers both developers and everyday users to
-explore, create, and share applications in a decentralized, collaborative cloud environment.
+We’re building a **user-friendly, distributed cloud** ☁️ that runs locally on your computer 💻. 
+Access and install apps straight from your browser, while the platform automatically downloads what you need for a smooth “tiny cloud” experience on each PC.
 
+Our ecosystem is **open and collaborative** 🤝: developers can easily add new components, run everything locally, and speed up the development cycle. 
+The goal? A **community-driven platform** 🌐 where both developers and users can explore, create, and share apps in a decentralized, collaborative cloud.
 
 ## Repositories
 
@@ -18,7 +15,7 @@ Core Libraries and Tools:
 -  [py-w3nest](https://github.com/w3nest/py-w3nest): 
    This is the python local server, including the services that are also deployed online. 
 
--  [co-lab](https://github.com/w3nest/co-lab):
+-  [w3lab](https://github.com/w3nest/w3lab):
    The companion application for the W3Nest local server, acting as a multi-functional dashboard, portal, and console.
 
 -  [k8s-deployments](https://github.com/w3nest/k8s-deployments):
@@ -27,17 +24,17 @@ Core Libraries and Tools:
 -  [webpm-client](https://github.com/w3nest/webpm-client):
    A TypeScript library and HTTP client for dynamically installing components in the browser.
 
--  [w3nest-client](https://github.com/w3nest/w3nest-client):
+-  [http-clients](https://github.com/w3nest/http-clients):
    A set of specialized HTTP clients designed to communicate efficiently with W3Nest backends.
 
 -  [webpm-externals](https://github.com/w3nest/webpm-externals):
    A collection of NPM packages adapted for use within W3Nest.
 
--  [mkdocs-ts](https://github.com/w3-nest/mkdocs-ts):
+-  [mkdocs-ts](https://github.com/w3nest/mkdocs-ts):
    Our go-to library for building interactive applications from hierarchical structures, supporting features like 
    Code API documentation and notebook-like pages.
 
--  [rx-vdom](https://github.com/w3-nest/rx-vdom):
+-  [rx-vdom](https://github.com/w3nest/rx-vdom):
    A lightweight library for rendering HTML documents using reactive programming principles.
 
 ## Contribution Guidelines
